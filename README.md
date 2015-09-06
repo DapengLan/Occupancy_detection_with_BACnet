@@ -17,10 +17,13 @@ Modified file is in the /demo/server
   
 In the linux system, 
 Running the server on the beaglebone:
-./bin/bacser
+
+./bin/bacser 123
 
 Runnung the client on laptop.
+
 ./bin/bacwi
+
 ./bin/bacrp 123 13 0 85
 
 The demo video can be found at the Youtube: 
