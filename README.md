@@ -1,9 +1,12 @@
 #NES15_HEVC
-Hardware:
+
+##Requirment
+- Hardware:
 Beaglebone black;
 Infared sensors.
+- Software: BACnet
 
-
+## Introduction
 The project is occupancy detection of a room. It detects the number of people entering or exiting a door. 
 It is implemented on top of a open source BACNET stack  (http://sourceforge.net/projects/bacnet/files/bacnet-stack/bacnet-stack-0.8.0/ )
 
